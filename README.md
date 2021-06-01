@@ -50,3 +50,4 @@ docker tag jupyter secana/dotnet-interactive:latest
 docker tag jupyter secana/dotnet-interactive:2020.02
 docker push secana/dotnet-interactive
 ```
+# dotnet-interactive-container
